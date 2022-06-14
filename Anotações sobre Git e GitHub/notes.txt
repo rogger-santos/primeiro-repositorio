@@ -1,0 +1,7 @@
+
+	COMANDOS PARA GIT
+
+	git status - (Para saber a situação da sua pasta local)
+	git add . ou {-a} - (Para adicionar todos os arquivos (para controle de versão local))
+	git  commit -m "msg" - (bom colocar um comentario para saber o que é, bem importante)
+	git push origin main - (é o comando para enviar todos os commits para a nuvem, gitHub)
